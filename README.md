@@ -1,1 +1,1 @@
-# gest-o-de-configura-o-projeto-esg
+# gestao-de-configuracao-projeto-esg
